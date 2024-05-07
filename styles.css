@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.odin {
+    text-align: left;
+    font-size: 40px;
+    color: brown;
+}
+
+.dishs {
+    font-size: medium;
+    background-color: burlywood;
+}
+a {
+    color: black;
+    font-size: 14px;
+}
